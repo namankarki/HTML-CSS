@@ -1,0 +1,60 @@
+*{
+    font-family:'Times New Roman';
+}
+#outer{
+    background-color: blue;
+    color:white;
+    font-size: 25px;
+}
+#inner{
+  font-size: 10px;
+}
+
+.heading1{
+    color:red;
+    text-align: center;
+    text-decoration: green underline;
+    text-decoration-skip-ink: none;
+    font-weight: normal;
+    text-transform: capitalize;
+}
+.heading2{
+    color:red;
+    text-align: end;
+    text-decoration: green underline;
+    text-decoration-skip-ink: none;
+    font-weight: bold;
+}
+.heading3{
+    color:red;
+    text-align: end;
+    text-decoration: green underline;
+    text-decoration-skip-ink: none;
+    font-weight: lighter;
+}
+
+button{
+    background-color: green;
+}
+
+#p1{
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    line-height: 50px;
+    text-transform: capitalize;
+}
+
+#p2{
+    text-align: center;
+    font-family: arial;
+    font-size: 10px;
+}
+#p3{
+    text-align: center;
+    font-family: arial;
+    font-size: 5px;
+}
+a{
+    text-decoration: none;
+}
